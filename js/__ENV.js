@@ -1,0 +1,1 @@
+window.__ENV = {"NEXT_PUBLIC_SMTP_FROM":"contato@resgatecorreto.fun","NEXT_PUBLIC_VIEWER_URL":"https://bot.resgatecorreto.fun"};
